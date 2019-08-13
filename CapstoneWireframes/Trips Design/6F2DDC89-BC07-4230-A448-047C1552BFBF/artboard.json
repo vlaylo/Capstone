@@ -1,0 +1,176 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "CFFDBE02-8FA0-4871-8428-F039A73B8152",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6F2DDC89-BC07-4230-A448-047C1552BFBF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FC272216-B924-4ED6-9524-BF35604944C6",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0E4F85D7-C171-400C-AF27-F4F0A4DBD431",
+    "height": 720,
+    "width": 360,
+    "x": 1851,
+    "y": 2950
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "BAFF2C9D-3419-488B-83D6-B40680815F87",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "28010346-428D-41DE-B8B6-F4F401474905"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B74F2AF4-43ED-4C88-BCF6-F7576D210491",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "3148EA1E-5623-47E8-8332-2B98521069CA"
+    },
+    {
+      "class": "group",
+      "id": "C153502E-5426-489D-9647-10B9A2546503"
+    },
+    {
+      "class": "text",
+      "id": "1E39961C-84A6-464F-92D8-963405CFE1CD"
+    },
+    {
+      "class": "shapePath",
+      "id": "DDDC4BC7-B7DF-47EC-9281-56FC1631BFEC"
+    },
+    {
+      "class": "group",
+      "id": "28765080-4D7F-499D-8864-3195FB2DD32E"
+    },
+    {
+      "class": "text",
+      "id": "D9C3AC4F-9B00-4253-9338-52CC3D7A00A2"
+    },
+    {
+      "class": "text",
+      "id": "BEB156F5-A55C-4703-AD1C-61C32449815E"
+    },
+    {
+      "class": "group",
+      "id": "5727BC34-F0B1-4786-9F9A-D01D2F293231"
+    },
+    {
+      "class": "text",
+      "id": "3A40F1F1-A79B-4667-89FB-890218FF486A"
+    },
+    {
+      "class": "text",
+      "id": "FD683764-F369-47C8-96A8-081302DA3FF5"
+    },
+    {
+      "class": "text",
+      "id": "A52D9C99-9804-4CBE-B954-27CD541B13FE"
+    },
+    {
+      "class": "text",
+      "id": "3823E8A2-6CEF-44EB-A829-66269F312780"
+    },
+    {
+      "class": "shapePath",
+      "id": "93392030-C26B-47E9-80F3-B5302945ED36"
+    },
+    {
+      "class": "group",
+      "id": "22993EA6-B0A2-4AA5-9E0F-A08E372DDAEF"
+    },
+    {
+      "class": "group",
+      "id": "F37DABD7-C338-4ACA-B2AA-5FE1EAF068F5"
+    },
+    {
+      "class": "rectangle",
+      "id": "1D222B6A-34A4-457F-8507-99157221E02F"
+    },
+    {
+      "class": "group",
+      "id": "7985E8EE-E933-425B-A653-75CB463C4AFE"
+    }
+  ],
+  "name": "Tower Bridge Clicked",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 720,
+    "name": "Pixel 3",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4036BF7A-2E91-4025-AEFC-A39A400E8E9F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": -1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8B1ADEA0-44B3-49A5-A544-907B92FE67F5",
+    "guides": [
+    ]
+  }
+}

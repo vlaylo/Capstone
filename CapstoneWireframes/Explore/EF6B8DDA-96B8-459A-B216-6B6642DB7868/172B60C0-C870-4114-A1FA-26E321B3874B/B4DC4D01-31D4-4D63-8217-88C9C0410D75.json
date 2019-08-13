@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B4DC4D01-31D4-4D63-8217-88C9C0410D75",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "547E0A1E-B564-405D-9ECF-E776ED448861",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E0505791-609A-4E90-B988-50FA5667BEEF",
+    "height": 34.87058823529412,
+    "width": 33.91666666666667,
+    "x": 40.33333333333333,
+    "y": 80.75294117647027
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Red Calendar Button",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "903408F4-4899-48AE-847B-B6BA2087F457",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "24FF03D0-151F-4ED2-AE21-2768FA3C7416",
+  "verticalSpacing": 0
+}

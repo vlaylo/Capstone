@@ -1,0 +1,168 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "48332BB8-2A3F-4B69-91B9-2971D973AE7B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 720,
+    "width": 360,
+    "x": 3010,
+    "y": 1463
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "4594758A-B8AD-47EE-8DB4-908A039BDD33"
+    },
+    {
+      "class": "group",
+      "id": "B5FD7568-41D7-4ED1-9ECD-DF2DB0693155"
+    },
+    {
+      "class": "text",
+      "id": "3676E200-ABAA-4874-9FD3-855059A4BF21"
+    },
+    {
+      "class": "shapePath",
+      "id": "7101BCD4-371B-43E8-ADCD-3334067353D0"
+    },
+    {
+      "class": "group",
+      "id": "7D63E70F-1A47-482E-8EAD-29C89F4F7F38"
+    },
+    {
+      "class": "text",
+      "id": "10BDB69B-C1BB-4BFC-871F-812CA43B310B"
+    },
+    {
+      "class": "text",
+      "id": "B2505DCF-7D32-4746-9000-5629C8836B68"
+    },
+    {
+      "class": "group",
+      "id": "3EE29C67-C158-47CD-891D-2BF29A4D44E6"
+    },
+    {
+      "class": "text",
+      "id": "44C10D61-5A6C-4EB3-8872-AD8BD78B5F17"
+    },
+    {
+      "class": "text",
+      "id": "DB02D086-E472-4329-A7B1-16018AE498B9"
+    },
+    {
+      "class": "text",
+      "id": "412F6E27-D927-44F9-A12A-3F85C3566EDE"
+    },
+    {
+      "class": "text",
+      "id": "F6211B05-B234-4715-8A52-C71A37A4C3C4"
+    },
+    {
+      "class": "shapePath",
+      "id": "7C14F89B-9DB1-40EF-B005-32146DF6936E"
+    },
+    {
+      "class": "group",
+      "id": "31E80280-243F-4916-B0AF-DEF4E74894A9"
+    },
+    {
+      "class": "group",
+      "id": "387489B6-9122-42C5-B4AF-B60DB771ED84"
+    },
+    {
+      "class": "rectangle",
+      "id": "0E32B63F-325F-4544-86AF-7FCFCB08BB88"
+    },
+    {
+      "class": "group",
+      "id": "14865171-9CE0-4E12-B079-D82DA04EC2DD"
+    }
+  ],
+  "name": "Tower Bridge Clicked Copy",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 720,
+    "name": "Pixel 3",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

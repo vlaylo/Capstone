@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "41E13757-4E19-46F7-9DDA-655E9D4F8FA0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DE09C533-D4F3-47EE-95C6-6F1B7C33CF20",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BBA6640D-9D22-4768-A103-9B454CC46253",
+    "height": 118,
+    "width": 118,
+    "x": 289,
+    "y": 244
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "75E4742C-84ED-4190-B050-A43C7DD478E2"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "1D73C756-C0FE-4F5D-98AE-F9B5DB3ADFEA"
+    },
+    {
+      "class": "bitmap",
+      "id": "0F186969-61F1-4E5D-834A-0CD4BF2FADED"
+    }
+  ],
+  "name": "Amsterdam",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3CE3D497-F772-42FE-901E-3263983A84C3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

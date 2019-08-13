@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6F268ACE-5CE8-42FD-BB24-22CC9802168D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "61F029F9-47A1-449D-AB35-9EEF18B52AEE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F28C529D-3247-429C-8A3E-86675F148B7A",
+    "height": 41,
+    "width": 450,
+    "x": 3641,
+    "y": 2037
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "09976CD6-02EB-4777-B67C-E9293BAF2BC9"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "533701AA-E59B-4E0C-BE25-9970E52D0132"
+    },
+    {
+      "class": "shapePath",
+      "id": "6844C095-6F47-4F4A-A6D2-206A1BCAC3CD"
+    }
+  ],
+  "name": "Route",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1D351F9F-9048-4FF4-A2FC-F97B0B0FEB9B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

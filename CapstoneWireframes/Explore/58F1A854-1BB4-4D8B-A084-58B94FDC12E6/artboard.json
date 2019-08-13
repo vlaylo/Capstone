@@ -1,0 +1,156 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "58F1A854-1BB4-4D8B-A084-58B94FDC12E6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F2466180-C7EA-452A-862D-23C4F6868D4D",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7A6D32AA-DBD0-4086-8693-5AC63B72A8E1",
+    "height": 720,
+    "width": 360,
+    "x": 5374,
+    "y": -1259
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "A81C7376-537B-413E-9E70-F732596C6A02"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "AB045660-5EC7-4086-B173-7F46B49C7F39",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "1B025E10-84C5-4A60-A8BF-FE4C9FBFC427"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BD51E210-14A4-4686-B9EC-733FA57BFFF4"
+    },
+    {
+      "class": "text",
+      "id": "31535534-AB54-4C12-BF1F-82A915EA5598"
+    },
+    {
+      "class": "group",
+      "id": "BF003D3B-9FD1-48EC-9C8A-6664324B95B4"
+    },
+    {
+      "class": "group",
+      "id": "557A4C14-F723-4980-B6D1-4D843C4E23EA"
+    },
+    {
+      "class": "text",
+      "id": "1CA3CDD9-729B-47C1-85D1-EC0691242F30"
+    },
+    {
+      "class": "text",
+      "id": "B1D7C0F9-0937-4FA8-B136-0237EC9554FB"
+    },
+    {
+      "class": "group",
+      "id": "A03503A2-D0C1-4481-BD27-D62DC05C40FB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "22CBC90B-474A-44B8-A34E-A9115B9F5B1A"
+    },
+    {
+      "class": "text",
+      "id": "B2B48F20-ABC7-4240-A681-CC40D8EE8EFC"
+    },
+    {
+      "class": "rectangle",
+      "id": "16E673CD-0EFA-4468-8AE9-4B2C399405D2"
+    },
+    {
+      "class": "text",
+      "id": "4ED958CE-BC84-4346-BAA9-3B277E1EE49C"
+    },
+    {
+      "class": "text",
+      "id": "80D1966F-743B-49A5-B635-B58292D70B54"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "44CFA9A5-6DFB-425D-8E2D-603B95636A0F"
+    }
+  ],
+  "name": "Flight Information",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 720,
+    "name": "Pixel 3",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2A071A05-E3DE-4DAE-BCAF-F952E2877AEC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": -1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "EBE8AA88-8A79-467B-8097-5E46B6106397",
+    "guides": [
+    ]
+  }
+}

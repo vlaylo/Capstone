@@ -1,0 +1,188 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8AE5777B-EDE4-4303-BF32-DA41BE9E13B6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B649FB41-24F7-4130-B678-A623338B1921",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D5D25D67-0934-4708-8B57-6B52D90E257B",
+    "height": 720,
+    "width": 360,
+    "x": 2655,
+    "y": -440
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "CDA543CC-5F16-44EB-ADF2-A3FD4A08EB3F"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "21D0E725-562C-4276-B6AB-6EBE4E9FF226",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "0B2FAF2E-589E-4D8D-83CD-94407355C6E4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "485AC102-B715-489F-A287-0C733CFFA9E5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "24AC8DBE-C52D-4DD7-92C0-9277265A17EC"
+    },
+    {
+      "class": "group",
+      "id": "92CCC623-18B8-4D0E-8089-D40DA6516916"
+    },
+    {
+      "class": "group",
+      "id": "56C917E3-7DA9-45A2-BA7C-54838CC8F901"
+    },
+    {
+      "class": "group",
+      "id": "CE606161-8DC2-4392-8CF8-2D97A4A5D567"
+    },
+    {
+      "class": "text",
+      "id": "2B04D1B2-65FF-46C2-967F-D6F7E06339DC"
+    },
+    {
+      "class": "oval",
+      "id": "D491C56C-A703-434A-9271-AA3EFE68E006"
+    },
+    {
+      "class": "oval",
+      "id": "F56102DC-DF37-4320-AE41-214D73CF5F24"
+    },
+    {
+      "class": "oval",
+      "id": "0567281A-6334-4AF0-AE7F-C86D274B83E6"
+    },
+    {
+      "class": "oval",
+      "id": "A1FDE5EA-B46D-4C7B-961A-F3423163EC9C"
+    },
+    {
+      "class": "oval",
+      "id": "9685672B-5684-4F98-98A3-0BE0438E2DD7"
+    },
+    {
+      "class": "oval",
+      "id": "87896880-89B8-463E-9C77-F9A8F3383F8E"
+    },
+    {
+      "class": "oval",
+      "id": "9268E02D-4C66-41A1-87B5-DAC4A71F4256"
+    },
+    {
+      "class": "oval",
+      "id": "2C4BD07F-4C0D-45DC-B01F-4A0E9974514B"
+    },
+    {
+      "class": "text",
+      "id": "CBF5A432-0578-4AEC-93C6-0266D16D214E"
+    },
+    {
+      "class": "group",
+      "id": "B416F39D-4DC2-4706-AD4A-69FD1386D7F1"
+    },
+    {
+      "class": "group",
+      "id": "F3E812FC-2C5F-4684-896C-3C831921B070"
+    },
+    {
+      "class": "text",
+      "id": "13F562A4-D301-4781-BC0F-E49D5D8732C3"
+    },
+    {
+      "class": "text",
+      "id": "D0B4A84E-47EF-463D-B9D6-B2FB94126366"
+    },
+    {
+      "class": "group",
+      "id": "08F18B1C-EDC9-42F2-B64E-10C07D57B81B"
+    },
+    {
+      "class": "text",
+      "id": "001F2523-1050-48E5-AA9D-B7E49706F42C"
+    }
+  ],
+  "name": "Burger Trips",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 720,
+    "name": "Pixel 3",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8EE54912-E759-44AE-837A-FC65697EA74A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": -1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2D9793D7-D0E1-47BE-9432-40A483431FC5",
+    "guides": [
+    ]
+  }
+}

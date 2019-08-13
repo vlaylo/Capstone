@@ -1,0 +1,116 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "D2F24A78-24D0-4CB2-8158-454888A5FE4F",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "18EEF770-8FF1-4267-9304-799742103752",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A8634CBD-5DC3-487F-B4D0-353F677B8D01",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FF987470-8892-4846-BEDF-B5932CFFA51F",
+    "height": 720,
+    "width": 360,
+    "x": 451,
+    "y": 257
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "0FC60E0C-22E5-4C54-8024-67DF7AAA492F"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1ADCBB0F-60A0-4B69-AB8F-0DB8BE2C5A7F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "1F4FC56A-B37D-4D9E-9BEB-1574EB7D6A38"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "240EC571-9467-4361-B20A-BB8EF6C738F2"
+    },
+    {
+      "class": "text",
+      "id": "B77A3A0D-3A11-4441-AF04-C5D3D41F5982"
+    },
+    {
+      "class": "group",
+      "id": "2AB6EE60-991A-4B70-8CC1-D3EED2B4999E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "663A5544-990B-465B-A9DE-203936BD4ED3"
+    },
+    {
+      "class": "group",
+      "id": "8116A818-9181-405C-A2DF-BF4647044BCD"
+    }
+  ],
+  "name": "Onboard 1",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 720,
+    "name": "Pixel 3",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "87C04617-9BC8-49F4-949A-D92CAE3C1C45",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1B478B4D-327C-49A1-B77D-04ABEF252CAE",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D3470115-1052-47DD-B8BF-F218E179040C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -418,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "1EC834B5-ECE0-4E98-8E1C-34C47009C121"
+    },
+    {
+      "class": "artboard",
+      "id": "5C9BD21B-C573-46D9-BDFF-B3FEED5E1346"
+    },
+    {
+      "class": "artboard",
+      "id": "433270DF-A68A-470F-A8C4-AA7CF739BB3F"
+    },
+    {
+      "class": "artboard",
+      "id": "7922267B-926F-4373-A855-7C66E58845E7"
+    },
+    {
+      "class": "artboard",
+      "id": "EBBA43F8-5473-4B62-9F34-A3E055EA36D8"
+    },
+    {
+      "class": "artboard",
+      "id": "2A00E3E7-2CE1-46AD-B683-6BFE94A81EE9"
+    },
+    {
+      "class": "artboard",
+      "id": "70725C86-6D1A-4AC3-9EA3-666822100587"
+    },
+    {
+      "class": "artboard",
+      "id": "48332BB8-2A3F-4B69-91B9-2971D973AE7B"
+    },
+    {
+      "class": "artboard",
+      "id": "79897B2D-EE4F-4BCC-A3AC-CB59097839B4"
+    },
+    {
+      "class": "artboard",
+      "id": "DBB919CF-BB15-4904-8272-46AEA939F729"
+    },
+    {
+      "class": "artboard",
+      "id": "8A66A84C-76D7-4680-AA41-E4ADD1DCD4E7"
+    },
+    {
+      "class": "artboard",
+      "id": "3AE74695-6385-42E1-A742-8701CBFD24AB"
+    },
+    {
+      "class": "artboard",
+      "id": "4B56A907-8A03-44D2-8573-B64A6573E0FA"
+    },
+    {
+      "class": "artboard",
+      "id": "69D420D6-4E0E-47EF-8D5F-A03F393D16EF"
+    },
+    {
+      "class": "artboard",
+      "id": "E171CACE-35D3-4638-8F0D-02FEA952E6FD"
+    },
+    {
+      "class": "artboard",
+      "id": "58B729D2-7178-4E51-9C44-033175342658"
+    },
+    {
+      "class": "artboard",
+      "id": "DEEC4809-B190-46B3-9794-7F46EB4327A6"
+    },
+    {
+      "class": "artboard",
+      "id": "EBC198F7-B975-40BB-BC77-10C0615512D0"
+    },
+    {
+      "class": "artboard",
+      "id": "70804BF5-0C02-432D-89C7-C7B574DB0ED3"
+    },
+    {
+      "class": "artboard",
+      "id": "B8001A46-FDEE-43C6-97AA-58031696F522"
+    },
+    {
+      "class": "artboard",
+      "id": "6609E54F-785B-419A-8E35-FDF406142EC5"
+    },
+    {
+      "class": "artboard",
+      "id": "DCCF3A50-1AF3-49C7-9CA6-69C533E728F1"
+    },
+    {
+      "class": "artboard",
+      "id": "00B4D7E7-13B7-45B0-9363-5E25B35DBA7A"
+    },
+    {
+      "class": "artboard",
+      "id": "5214E48A-45C9-4E26-952D-C498DDF8BFC7"
+    },
+    {
+      "class": "artboard",
+      "id": "A7D7A760-D33E-41A7-8533-B44A99B2652B"
+    },
+    {
+      "class": "artboard",
+      "id": "183AF8C5-1D64-44D0-AF52-6CFA0AA83BBA"
+    },
+    {
+      "class": "artboard",
+      "id": "11F8D77C-3B88-424F-BBB5-F0382764D872"
+    },
+    {
+      "class": "artboard",
+      "id": "1EA71B57-9080-4B30-B39D-63BB0B1A15FF"
+    },
+    {
+      "class": "artboard",
+      "id": "6F2DDC89-BC07-4230-A448-047C1552BFBF"
+    },
+    {
+      "class": "artboard",
+      "id": "A62336E3-A482-4A96-8C8B-2B6994B81425"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Trips Design",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.invision.prototype": {
+      "lastUsedGestureID": 0
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -372,
+    "guides": [
+    ]
+  }
+}

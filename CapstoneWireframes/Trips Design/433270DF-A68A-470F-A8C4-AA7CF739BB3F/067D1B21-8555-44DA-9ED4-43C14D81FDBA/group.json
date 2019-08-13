@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "067D1B21-8555-44DA-9ED4-43C14D81FDBA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "478C3D7B-C5EF-40FC-8718-A71E347762DB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F7711A19-0A5D-404B-AA06-43B9B0800AD3",
+    "height": 85,
+    "width": 360,
+    "x": 0,
+    "y": 1160
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "15045C22-AE3F-4329-9BD5-22B3EBB0D5D2"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "944FE55E-12A0-4447-8F19-F7750A44A39F"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "E989CA0E-6983-44BD-8588-311CABE66611"
+    },
+    {
+      "class": "rectangle",
+      "id": "FD8D65A1-BA60-40F1-93AF-07D828A9CAF3"
+    }
+  ],
+  "name": "Group 5",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "56072640-0E99-4317-9BCD-D46D7ED2C02D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

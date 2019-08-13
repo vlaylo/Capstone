@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E6621B72-57C4-4976-A85E-E2997F0A2470",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BDD40420-70B2-406A-B3A0-31D90798199C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0F29C162-CB1A-44F1-8605-AE54F35F5C2D",
+    "height": 34,
+    "width": 34,
+    "x": 81,
+    "y": 539
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Circle with Image ",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BF1553FE-8DF0-4F93-AB31-9F02FF399718",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "03FA4FDA-D1EB-4EB7-8BB5-CB5D2172EC8E",
+  "verticalSpacing": 0
+}

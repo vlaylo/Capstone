@@ -1,0 +1,148 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DCCF3A50-1AF3-49C7-9CA6-69C533E728F1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 720,
+    "width": 360,
+    "x": 992,
+    "y": 4912
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "F673BC4E-3BFF-4F9E-A4F9-6ABE4F37CE78"
+    },
+    {
+      "class": "text",
+      "id": "E56BABA1-A924-4901-80A5-F257AC2EC267"
+    },
+    {
+      "class": "text",
+      "id": "15424D4C-6121-4885-B381-94B2EE72DAFC"
+    },
+    {
+      "class": "group",
+      "id": "BDB45052-1C60-4183-A2EB-568AB1EE3ECD"
+    },
+    {
+      "class": "group",
+      "id": "723096E1-0656-4038-BD20-25320A6310E6"
+    },
+    {
+      "class": "rectangle",
+      "id": "61B8673F-5024-43F6-B140-66EFFDE3AC30"
+    },
+    {
+      "class": "oval",
+      "id": "E1012681-77F3-41E9-8ED2-2B8E7EEC4B76"
+    },
+    {
+      "class": "text",
+      "id": "7026AABC-700D-4CF5-8DCA-C3B1248F80AB"
+    },
+    {
+      "class": "oval",
+      "id": "51C43EC0-9841-483A-8F76-05AE313D2FD4"
+    },
+    {
+      "class": "text",
+      "id": "5847264D-20D3-41E3-B241-C5C672F8FCC7"
+    },
+    {
+      "class": "oval",
+      "id": "D4187521-2B85-43EF-944F-BE0E29423926"
+    },
+    {
+      "class": "text",
+      "id": "B208AEBD-1D6E-4A50-B445-985D951CB4B9"
+    }
+  ],
+  "name": "Add new trip Copy 3",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 720,
+    "name": "Pixel 3",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": -1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

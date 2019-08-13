@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A2C6FD72-CFED-4A79-A6FB-3E0D5093F60C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C9EFC7F8-4E84-476B-9EBE-D93250A924CD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B9E67D1E-6565-4686-B185-0F9AE13FD19B",
+    "height": 29,
+    "width": 360,
+    "x": 9.094947017729282e-13,
+    "y": 2.273736754432321e-13
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "name": "ui/status_bar/white",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2544F3DD-BEAC-4073-975D-1A56F28558D8",
+      "overrideName": "311BDEDA-54B5-4D6A-A677-1ABFE3BF040B_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E9A6FA36-1607-4967-A1E9-4C41E5394CE1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D2D19FA7-E218-4690-9B4D-813033E95C90",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

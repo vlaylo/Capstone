@@ -1,0 +1,168 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "677B6170-7A18-4D2E-9AA2-211A7178211F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0B466CFB-8867-4A84-A47B-B499192F1E7A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BC9A26DD-3F50-47CD-A36F-5E99264393F7",
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "BF36CBC6-3008-4365-BAB4-5BCF7DF8C48C",
+    "gridSize": 20,
+    "isEnabled": true,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "A155E5F0-B130-449B-91A8-004228511BEC"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -439,
+    "do_objectID": "CB1D9C87-83DF-42DB-B293-43E7195F7631",
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "CF434366-6086-4B39-863C-4D97E38D609C"
+    },
+    {
+      "class": "artboard",
+      "id": "923BB54D-A5A0-4EB1-AD98-EB3963A27C72"
+    },
+    {
+      "class": "artboard",
+      "id": "1877DA23-6289-4040-A185-0EF7448A6D09"
+    },
+    {
+      "class": "artboard",
+      "id": "7F3B8DAD-CB97-4BC0-A756-F0D5B905EB34"
+    },
+    {
+      "class": "artboard",
+      "id": "C1ECCAE0-1925-4FEE-A9CB-0242512392D9"
+    },
+    {
+      "class": "artboard",
+      "id": "58F1A854-1BB4-4D8B-A084-58B94FDC12E6"
+    },
+    {
+      "class": "artboard",
+      "id": "FCA13BAD-FDED-4326-A75D-F1CE28E25979"
+    },
+    {
+      "class": "artboard",
+      "id": "E627E783-00D3-4B19-A425-DF999D5C221F"
+    },
+    {
+      "class": "artboard",
+      "id": "F8B65A35-CD4D-43B8-B11F-6CA12B2F17F8"
+    },
+    {
+      "class": "artboard",
+      "id": "DF01DC4C-BA58-4C18-8AB6-BE3C42259888"
+    },
+    {
+      "class": "artboard",
+      "id": "EF6B8DDA-96B8-459A-B216-6B6642DB7868"
+    },
+    {
+      "class": "artboard",
+      "id": "E416B4A0-7728-4F36-84CB-9D8E701991D5"
+    },
+    {
+      "class": "artboard",
+      "id": "A291F724-5369-4BEC-B266-8802D3F81D84"
+    },
+    {
+      "class": "artboard",
+      "id": "2880163A-13BC-49E1-A644-4D05E87A541A"
+    },
+    {
+      "class": "artboard",
+      "id": "5D64BCAA-0F8F-4A14-A0CC-AB6AB8BEDCE1"
+    },
+    {
+      "class": "artboard",
+      "id": "2CCFF7D0-E35A-40C7-AB64-75EB262B2F82"
+    },
+    {
+      "class": "artboard",
+      "id": "05AD5CB5-1E27-41AA-98FB-BBE2193AB314"
+    },
+    {
+      "class": "artboard",
+      "id": "F0949CF6-3035-4398-8880-E38764C1F139"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "do_objectID": "A4D404B7-8F6F-4F86-9393-B6A1C989C9C6",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Explore",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9C9C32EB-4821-4052-BB85-B7D6EE0F5EC0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.invision.prototype": {
+      "lastUsedGestureID": 0
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -372,
+    "do_objectID": "117A2AC2-BA77-49B3-A001-9C444BA10E15",
+    "guides": [
+    ]
+  }
+}

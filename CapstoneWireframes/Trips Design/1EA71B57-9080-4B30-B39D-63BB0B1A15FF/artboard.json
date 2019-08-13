@@ -1,0 +1,212 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "07F07998-104A-411E-95E5-B135436E09A7",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1EA71B57-9080-4B30-B39D-63BB0B1A15FF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CA891284-084A-4D03-A82A-BED41CD4256E",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C19547D7-2A2B-4F2B-8284-EF5617AB6B4C",
+    "height": 1281,
+    "width": 360,
+    "x": 1391,
+    "y": 2950
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "C9CA6B58-D1EB-4D8D-903B-0557704C6D2A",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "C9B54E03-957E-44AA-85F3-66B05EE26363"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D8CDD4F6-773A-4775-9686-4912F5DC4D02",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "62E126B7-612A-4C78-98D2-F47B0F88C37F"
+    },
+    {
+      "class": "group",
+      "id": "5CFE2727-2014-4AA4-A872-19DEBFCA0144"
+    },
+    {
+      "class": "text",
+      "id": "A468C177-3346-4F75-BBFC-04FB6FC35754"
+    },
+    {
+      "class": "text",
+      "id": "75B847EB-D1ED-4F02-B06C-030B5D0CCD46"
+    },
+    {
+      "class": "group",
+      "id": "01F17FB7-F47B-4192-A7AE-C4BAB315BD5E"
+    },
+    {
+      "class": "group",
+      "id": "1D35E7C7-7C90-4F26-A87C-BD412003D3E1"
+    },
+    {
+      "class": "shapePath",
+      "id": "FD114FA7-9182-4378-B612-80F0B4498FCB"
+    },
+    {
+      "class": "group",
+      "id": "BA31F217-0644-4D40-8DC9-4A79C438E4E2"
+    },
+    {
+      "class": "group",
+      "id": "F0BD17B9-9E28-4A6E-9A9E-0D0230CB6C41"
+    },
+    {
+      "class": "group",
+      "id": "A531EE67-BF55-4D61-811C-E485A6744132"
+    },
+    {
+      "class": "text",
+      "id": "416CD59C-19A8-4B5F-A07D-57DBD104B69C"
+    },
+    {
+      "class": "group",
+      "id": "FBCCAA14-27A3-4250-BA64-CA515009B51C"
+    },
+    {
+      "class": "group",
+      "id": "A4A7813D-2F39-426C-B97A-727A01E63B17"
+    },
+    {
+      "class": "group",
+      "id": "5F99C114-CFAC-47D5-9CE9-EE7A30540AB4"
+    },
+    {
+      "class": "text",
+      "id": "33CEA0F8-9C55-467F-9D39-6DE483ECC21A"
+    },
+    {
+      "class": "group",
+      "id": "85002906-0FCD-4193-B7BF-7BA0DE0FA86E"
+    },
+    {
+      "class": "text",
+      "id": "F830C86E-FC56-4922-A2DA-31B021FDF240"
+    },
+    {
+      "class": "text",
+      "id": "5D83EED7-1F38-4F32-8068-7DCFB1FEB68C"
+    },
+    {
+      "class": "text",
+      "id": "6357E8E3-0DEF-482E-BFC9-941B48FB66CA"
+    },
+    {
+      "class": "group",
+      "id": "E76586AC-AA5D-46B7-9EE7-C3B6FCC1CDC8"
+    },
+    {
+      "class": "text",
+      "id": "7C76C65C-0D15-4552-82D0-F5C1D28273F7"
+    },
+    {
+      "class": "group",
+      "id": "5CC45347-9EE1-4DFF-A74E-C1057DC6F6FF"
+    },
+    {
+      "class": "rectangle",
+      "id": "778EB627-2401-4CED-948D-F87BD2F7276B"
+    },
+    {
+      "class": "group",
+      "id": "21DBD965-9527-4D6A-B9B9-FE067001E0C2"
+    },
+    {
+      "class": "rectangle",
+      "id": "26BEA712-8515-4D3E-8964-5343AFA7DAE2"
+    },
+    {
+      "class": "group",
+      "id": "E5FD9FD5-A14C-430D-B9FE-78F0ACAD1053"
+    }
+  ],
+  "name": "Searched for Tower Bridge",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 720,
+    "name": "Pixel 3",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C5765390-5FB0-4E38-AE50-7C3CB2C45ACE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FB2858FE-63B7-4C7D-BB47-4BE405FA2ADC",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "92828956-47A5-4114-A979-D1EC1E773CF6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "48456486-29FB-4FCD-9C50-8EE037F9048B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E8C97008-C7E3-446F-A4C0-9952CFE2B432",
+    "height": 34.87058823529411,
+    "width": 33.91666666666666,
+    "x": 200.75,
+    "y": 120.211764705882
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Yellow Calendar Button",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3BE929B1-510C-4C03-BE56-46A1B1D63CE4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "417B674F-49AA-4EF0-BDB0-8C5E1839D07E",
+  "verticalSpacing": 0
+}

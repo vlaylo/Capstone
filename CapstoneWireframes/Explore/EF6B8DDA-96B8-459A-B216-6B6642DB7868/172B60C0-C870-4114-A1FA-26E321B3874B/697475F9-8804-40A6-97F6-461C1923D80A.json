@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "697475F9-8804-40A6-97F6-461C1923D80A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0DCE8172-E445-43B3-AEF5-348F09D9454C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "417C550E-0C4B-4038-81E6-FA27C822DA59",
+    "height": 35.78823529411765,
+    "width": 33.91666666666669,
+    "x": 241.0833333333333,
+    "y": 79.83529411764674
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Green Rectangle",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3A0847D1-89AA-4ECE-82FB-DA54CB215C00",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "62A7D8D9-9E09-4DFC-A22D-D962EE5C3C8A",
+  "verticalSpacing": 0
+}

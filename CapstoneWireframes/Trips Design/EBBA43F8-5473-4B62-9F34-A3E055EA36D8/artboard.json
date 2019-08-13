@@ -1,0 +1,164 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EBBA43F8-5473-4B62-9F34-A3E055EA36D8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 720,
+    "width": 360,
+    "x": 2621,
+    "y": 477
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "77446109-1AF9-4417-83C3-6C1EC418FC4D"
+    },
+    {
+      "class": "group",
+      "id": "C564FFEC-CCF0-43BC-ACE5-615A31F41B13"
+    },
+    {
+      "class": "text",
+      "id": "5002CA2F-E150-4E69-A3DC-F56162B8FC2F"
+    },
+    {
+      "class": "shapePath",
+      "id": "20B38835-9EE8-4428-9A3A-A3DCEEC97312"
+    },
+    {
+      "class": "group",
+      "id": "79FB2ABD-3E34-4804-AED4-4BE7C696ACB2"
+    },
+    {
+      "class": "text",
+      "id": "32626CD7-7850-413E-AB4F-360B39A5AE1D"
+    },
+    {
+      "class": "text",
+      "id": "E5C1B6B3-F52C-4EC3-A031-290630267DD1"
+    },
+    {
+      "class": "group",
+      "id": "D7F10BF9-4F88-4A35-8632-A478921F9CEE"
+    },
+    {
+      "class": "text",
+      "id": "EAA30A16-FE25-47D7-A79C-CE4F2007B389"
+    },
+    {
+      "class": "text",
+      "id": "7E326713-98B0-41E1-950F-7337D72CD7E4"
+    },
+    {
+      "class": "text",
+      "id": "D9520441-FC23-4069-90C0-83C61422DE7B"
+    },
+    {
+      "class": "text",
+      "id": "1B8D82E8-BB78-4A82-8B14-2F53C99D730F"
+    },
+    {
+      "class": "shapePath",
+      "id": "D3388DA3-91A7-4C19-B543-6548EBF43D71"
+    },
+    {
+      "class": "group",
+      "id": "063094F4-2E15-44CA-89DD-C83E49023A3E"
+    },
+    {
+      "class": "group",
+      "id": "8CCF0E00-0EF2-4008-863B-F47E9FACD490"
+    },
+    {
+      "class": "group",
+      "id": "8EDDC1D3-7232-40F2-9077-AA2E4DC4DB40"
+    }
+  ],
+  "name": "Hyde Park Clicked",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 720,
+    "name": "Pixel 3",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": -1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "212A18D3-4D7A-4AC9-A852-E8046DC8AF48",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 720,
+    "width": 360,
+    "x": 3574,
+    "y": -1260
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "54A75B48-C65C-41D7-AEA0-1BD52D642018"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EA27D252-6912-45A8-B7FB-1C2413EBA72D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F8289967-C315-487B-9A71-0C85C0B6F84D"
+    },
+    {
+      "class": "group",
+      "id": "1D704841-32F1-4D61-B469-607685B8BFEC"
+    },
+    {
+      "class": "text",
+      "id": "FC8883A0-4678-4457-A230-4CF1CEBAA07D"
+    },
+    {
+      "class": "text",
+      "id": "0EC2F91F-CF36-4601-9969-2790935876F1"
+    },
+    {
+      "class": "text",
+      "id": "A0D47E7D-F52C-4C3E-B082-8650A7DC88C8"
+    },
+    {
+      "class": "text",
+      "id": "DF0461F0-9652-43D4-B0B3-1A3F409D4823"
+    },
+    {
+      "class": "text",
+      "id": "8A4F8925-F713-41C2-9E1E-D2285ED8D53A"
+    },
+    {
+      "class": "text",
+      "id": "1169DFC1-F6A8-4C58-B52E-4116AB925FCE"
+    },
+    {
+      "class": "oval",
+      "id": "BB7AD488-B9CB-4E93-BE66-C05747BEE4BE"
+    },
+    {
+      "class": "oval",
+      "id": "BCD8EA6F-FD3F-4878-881F-0284DDA5EB44"
+    },
+    {
+      "class": "oval",
+      "id": "0C8737D2-B6D9-42AC-A124-FC73B11D4741"
+    },
+    {
+      "class": "oval",
+      "id": "8E409B83-6759-4BE8-840F-8F3E45ACB9DC"
+    },
+    {
+      "class": "oval",
+      "id": "62520F2C-DA79-4A87-9F30-2E39F5B5522B"
+    },
+    {
+      "class": "group",
+      "id": "ECAFB057-D9E5-446F-9F8E-CCAF83FC92E0"
+    },
+    {
+      "class": "group",
+      "id": "E6D5102E-24C4-45F9-9EF5-2A06A634C902"
+    },
+    {
+      "class": "rectangle",
+      "id": "2A37FBA7-52EE-4E24-8DCB-06148FD91581"
+    },
+    {
+      "class": "rectangle",
+      "id": "581FA7D9-1546-4ACB-B20B-BDC2D2251572"
+    },
+    {
+      "class": "rectangle",
+      "id": "D3507EFE-D0FC-43DB-9820-D7A3F414629B"
+    },
+    {
+      "class": "text",
+      "id": "144820DF-5BD4-4EC8-8E7E-11097AE7D567"
+    },
+    {
+      "class": "text",
+      "id": "7F51B86D-7F0A-47D8-AE80-C13A95D3403E"
+    },
+    {
+      "class": "text",
+      "id": "56113FF1-E8C4-4850-88FF-08E35B680988"
+    },
+    {
+      "class": "text",
+      "id": "D4CC89B9-AE44-475C-9EE7-AE99FCA2A167"
+    },
+    {
+      "class": "text",
+      "id": "93605A04-C0C6-426F-8887-B40910125F1E"
+    },
+    {
+      "class": "text",
+      "id": "4FA0E7DD-66E3-4B13-AD44-EA19CF6040D1"
+    }
+  ],
+  "name": "Burger Edit Info",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 720,
+    "name": "Pixel 3",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": -1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

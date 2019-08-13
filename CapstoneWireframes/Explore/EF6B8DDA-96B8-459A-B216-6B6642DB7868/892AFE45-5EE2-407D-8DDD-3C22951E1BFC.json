@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "892AFE45-5EE2-407D-8DDD-3C22951E1BFC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FE0A10C8-E1B7-4C5C-8E41-0CCBC45AB478",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2FEB2472-6854-4896-B284-62C06B62B7F7",
+    "height": 180,
+    "width": 318,
+    "x": 21,
+    "y": 184
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Calendar",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "902C19FF-6FC0-45C7-9E73-EF27195C0AB1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "093E5987-0F89-457E-BDE5-B6A1C604138B",
+  "verticalSpacing": 0
+}
