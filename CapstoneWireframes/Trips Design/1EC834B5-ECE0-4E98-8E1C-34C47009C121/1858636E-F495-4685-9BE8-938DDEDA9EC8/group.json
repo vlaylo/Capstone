@@ -33,15 +33,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "EDB5B26A-111B-4BF7-8A61-F03B62533D28"
     },
     {
-      "class": "rectangle",
-      "id": "FB04F0BC-34EE-429F-97B1-0731D5DB952F"
+      "class": "symbolInstance",
+      "id": "ADF04763-FD14-4F5C-BEE5-A55A02A1C95C"
     }
   ],
   "name": "Group 5",

@@ -33,8 +33,8 @@
     "constrainProportions": false,
     "height": 837,
     "width": 360,
-    "x": 495,
-    "y": 1808
+    "x": 447,
+    "y": 1823
   },
   "grid": {
     "_class": "simpleGrid",
@@ -152,7 +152,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {

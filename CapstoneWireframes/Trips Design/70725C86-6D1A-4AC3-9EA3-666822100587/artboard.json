@@ -33,8 +33,8 @@
     "constrainProportions": false,
     "height": 720,
     "width": 360,
-    "x": 2621,
-    "y": 1463
+    "x": 2496,
+    "y": 1289
   },
   "grid": {
     "_class": "simpleGrid",
@@ -127,6 +127,10 @@
     {
       "class": "group",
       "id": "9A350C63-DD37-4594-A597-E2AF5B1AA1CE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D3E36FB2-609B-4DBE-9E9E-8739ACCA93C2"
     }
   ],
   "name": "Tower Bridge Clicked",

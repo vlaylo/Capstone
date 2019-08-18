@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 4,
+        "length": 17,
         "location": 0
       }
     ],
-    "string": "Bali"
+    "string": "Santorini, Greece"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,11 +50,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 30,
-    "width": 49.54838709677423,
+    "width": 210,
     "x": 0,
-    "y": 0.3950120675783637
+    "y": 0.3950120675781363
   },
-  "glyphBounds": "{{2, 7}, {38, 18}}",
+  "glyphBounds": "{{0, 6}, {187, 22}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Bali",
+  "name": "Santorini, Greece",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

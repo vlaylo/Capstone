@@ -51,7 +51,7 @@
     "do_objectID": "2400DE36-C994-4E5B-BAC7-E6C84F113AB3"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -189,9 +189,13 @@
     {
       "class": "group",
       "id": "8139EADE-5156-4C3F-905F-A4D71117CB6C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6BB59117-09C2-4738-B8F2-CD78666711F3"
     }
   ],
-  "name": "Add Activity Explore",
+  "name": "Explore",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

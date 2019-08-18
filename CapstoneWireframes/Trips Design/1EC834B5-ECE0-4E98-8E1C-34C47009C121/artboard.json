@@ -35,7 +35,7 @@
     "do_objectID": "D8B5F07E-064B-41DF-ADB1-B649364EF56C",
     "height": 1450,
     "width": 360,
-    "x": 106,
+    "x": 27,
     "y": 477
   },
   "groupLayout": {
@@ -60,7 +60,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -77,10 +77,6 @@
     {
       "class": "text",
       "id": "ED9915B6-90CE-4125-AE0A-57929D272D2C"
-    },
-    {
-      "class": "group",
-      "id": "4972D523-3FEF-467C-9C94-36C96CCE4478"
     },
     {
       "class": "group",
@@ -264,10 +260,6 @@
     },
     {
       "class": "group",
-      "id": "158745A0-AFB6-4369-8C44-00F29AFBC7DC"
-    },
-    {
-      "class": "group",
       "id": "AE675CDD-1ACF-47B2-85DE-FEB92B1672DF"
     },
     {
@@ -299,7 +291,7 @@
       "id": "1858636E-F495-4685-9BE8-938DDEDA9EC8"
     }
   ],
-  "name": "Trips 1",
+  "name": "Trips",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

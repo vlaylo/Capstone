@@ -51,7 +51,7 @@
     "do_objectID": "74FC7188-E06A-423F-B460-026E5CB8B5D7"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -137,9 +137,13 @@
     {
       "class": "bitmap",
       "id": "1C115DE0-2148-4AAF-887E-DB1FA95268A7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7CD9A0DA-B288-4FF7-B108-8C09EA109E65"
     }
   ],
-  "name": "Add new trip",
+  "name": "Add trip",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
@@ -163,7 +167,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 1
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {

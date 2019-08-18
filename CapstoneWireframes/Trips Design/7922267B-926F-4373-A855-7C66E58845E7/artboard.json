@@ -33,7 +33,7 @@
     "constrainProportions": false,
     "height": 1245,
     "width": 360,
-    "x": 884,
+    "x": 855,
     "y": 477
   },
   "grid": {
@@ -178,10 +178,6 @@
     },
     {
       "class": "group",
-      "id": "8B7EBF5A-4EE4-45A7-AE17-1E45527BA6C7"
-    },
-    {
-      "class": "group",
       "id": "07906DE7-1CC6-4B03-8DEE-4571E3BAC386"
     },
     {
@@ -231,6 +227,18 @@
     {
       "class": "bitmap",
       "id": "2F710367-13AD-4207-A34F-0AADAFF6739F"
+    },
+    {
+      "class": "group",
+      "id": "53D68672-4C89-49CE-886B-A24B491AD6B3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D2A44C18-53FA-4696-A560-38BA84043979"
+    },
+    {
+      "class": "bitmap",
+      "id": "A7B3A723-DC05-4CCB-B89B-EFF809D268AA"
     }
   ],
   "name": "Hidden Itinerary",
@@ -256,7 +264,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 1
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {

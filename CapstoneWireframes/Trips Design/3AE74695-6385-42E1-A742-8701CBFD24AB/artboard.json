@@ -33,7 +33,7 @@
     "constrainProportions": false,
     "height": 720,
     "width": 360,
-    "x": 2232,
+    "x": 2107,
     "y": 477
   },
   "grid": {
@@ -46,7 +46,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -155,6 +155,10 @@
     {
       "class": "group",
       "id": "0E85C2ED-38E3-4C99-B23B-B18F0913C8F3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "940D7ABB-9E15-41EC-A511-4F509D833EF0"
     }
   ],
   "name": "Add Activity Explore",
@@ -180,7 +184,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {

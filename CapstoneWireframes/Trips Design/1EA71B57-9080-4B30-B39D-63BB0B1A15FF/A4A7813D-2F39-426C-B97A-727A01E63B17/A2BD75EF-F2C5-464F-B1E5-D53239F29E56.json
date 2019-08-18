@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "HKGrotesk-Bold",
-              "size": 24
+              "size": 22
             }
           },
           "paragraphStyle": {
@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 16,
+        "length": 22,
         "location": 0
       }
     ],
-    "string": "Millenium Bridge"
+    "string": "Amsterdam, Netherlands"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "BC706C33-12C2-4FAE-8F49-3E47986BCC33",
-    "height": 30,
-    "width": 198,
+    "height": 28,
+    "width": 275,
     "x": 20,
     "y": 10
   },
-  "glyphBounds": "{{2, 7}, {181, 23}}",
+  "glyphBounds": "{{0, 6}, {246, 20}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Millenium Bridge",
+  "name": "Amsterdam, Netherlan",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -92,7 +92,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "HKGrotesk-Bold",
-            "size": 24
+            "size": 22
           }
         },
         "paragraphStyle": {

@@ -46,7 +46,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -91,9 +91,17 @@
     {
       "class": "rectangle",
       "id": "F63EB4DA-0718-4EBC-B01C-19CACD7AB39D"
+    },
+    {
+      "class": "bitmap",
+      "id": "9DADE341-1E9D-4743-BE86-28DD93C11F91"
+    },
+    {
+      "class": "group",
+      "id": "889293D4-06CC-4830-BEBB-B9F6C02F6BE5"
     }
   ],
-  "name": "Add new trip Copy",
+  "name": "Onboarding 1",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
@@ -116,7 +124,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {

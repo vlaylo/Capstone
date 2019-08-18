@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 107.2392665474061,
+    "height": 108,
     "width": 344,
     "x": 0,
     "y": 0.9598389982109504
@@ -38,7 +38,7 @@
     },
     {
       "class": "bitmap",
-      "id": "606EC2C4-AD1F-4116-914D-9C51C9A67312"
+      "id": "21A37346-8FFE-4238-8D10-230B801E1DBB"
     }
   ],
   "name": "Choice Mask Copy",

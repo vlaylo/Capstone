@@ -46,7 +46,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -71,18 +71,6 @@
     {
       "class": "text",
       "id": "79A50EA7-98C4-455A-B91F-CF61DDF3B5FF"
-    },
-    {
-      "class": "text",
-      "id": "111165A8-3F2A-446B-8BBC-DB609D634B56"
-    },
-    {
-      "class": "group",
-      "id": "916E1379-B378-43AE-A318-F2BC2A0A0020"
-    },
-    {
-      "class": "group",
-      "id": "8BBE13B7-8D79-4886-9EC6-A630DDD52417"
     },
     {
       "class": "rectangle",
@@ -111,9 +99,33 @@
     {
       "class": "text",
       "id": "7CE6DEF0-5B19-4B2E-9988-B0B7A7136CEE"
+    },
+    {
+      "class": "bitmap",
+      "id": "3574F692-95F8-46EF-B985-789E21D69FCD"
+    },
+    {
+      "class": "group",
+      "id": "A698AAA1-0BF9-420D-90DA-5630B6C791F0"
+    },
+    {
+      "class": "group",
+      "id": "6EC778F4-52DF-4FFC-BCB0-AC8FE2115FA8"
+    },
+    {
+      "class": "text",
+      "id": "A9B29652-FB41-4A27-9D73-BF26BB3ADF3F"
+    },
+    {
+      "class": "group",
+      "id": "45481BA1-878B-4486-BD1D-2B028EF36CB8"
+    },
+    {
+      "class": "text",
+      "id": "B75554F1-1CD6-4A4B-818B-F583F3A5BE02"
     }
   ],
-  "name": "Add new trip Copy 8",
+  "name": "Onboarding 7",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
@@ -136,7 +148,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 1
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {

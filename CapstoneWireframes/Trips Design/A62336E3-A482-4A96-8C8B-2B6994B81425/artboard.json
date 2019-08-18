@@ -137,7 +137,7 @@
       "id": "13FD4A75-9103-4832-B835-EA4C2F646F90"
     }
   ],
-  "name": "Tower Bridge Clicked Copy 2",
+  "name": "Paris Confirmed",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
@@ -160,7 +160,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 1
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {

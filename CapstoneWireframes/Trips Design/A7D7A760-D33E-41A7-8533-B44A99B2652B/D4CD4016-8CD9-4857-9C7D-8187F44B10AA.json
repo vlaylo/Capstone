@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 30,
+        "length": 34,
         "location": 0
       }
     ],
-    "string": "I prefer the light of the day."
+    "string": "I prefer to be a bit more relaxed."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,11 +50,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 18,
-    "width": 174,
+    "width": 206,
     "x": 32,
-    "y": 558
+    "y": 548
   },
-  "glyphBounds": "{{1, 4}, {171, 13}}",
+  "glyphBounds": "{{1, 4}, {203, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "I prefer the light o",
+  "name": "I prefer to be a bit",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

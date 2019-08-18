@@ -111,9 +111,21 @@
     {
       "class": "text",
       "id": "B208AEBD-1D6E-4A50-B445-985D951CB4B9"
+    },
+    {
+      "class": "group",
+      "id": "8E88F7B7-3FF6-4BF9-A23E-ED109728FB95"
+    },
+    {
+      "class": "group",
+      "id": "D2DE95D0-DE6F-454C-9123-D924BD4E84FB"
+    },
+    {
+      "class": "text",
+      "id": "ADFC1540-655B-4E50-B7AB-2DF5B00FBF9C"
     }
   ],
-  "name": "Add new trip Copy 3",
+  "name": "Onboarding 3",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

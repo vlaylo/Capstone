@@ -21,8 +21,8 @@
     "do_objectID": "271C3BC3-4DD0-417A-94E2-23E1C0B42E49",
     "height": 107,
     "width": 375,
-    "x": 1519,
-    "y": 301
+    "x": 1523,
+    "y": 297
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -108,9 +108,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.7215686274509805,
-          "green": 1,
-          "red": 0.5490196078431373
+          "blue": 1,
+          "green": 0.6941176470588235,
+          "red": 0.4941176470588236
         },
         "fillType": 0,
         "isEnabled": true,
@@ -137,7 +137,7 @@
           "blendMode": 0,
           "opacity": 1
         },
-        "isEnabled": true,
+        "isEnabled": false,
         "offsetX": 0,
         "offsetY": 2,
         "spread": 0

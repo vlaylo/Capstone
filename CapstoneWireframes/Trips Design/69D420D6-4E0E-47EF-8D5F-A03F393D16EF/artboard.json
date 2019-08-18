@@ -33,8 +33,8 @@
     "constrainProportions": false,
     "height": 1281,
     "width": 360,
-    "x": 2232,
-    "y": 1463
+    "x": 2107,
+    "y": 1289
   },
   "grid": {
     "_class": "simpleGrid",
@@ -141,10 +141,6 @@
       "id": "59A237F1-F042-4515-8F8A-9C0E77568B4A"
     },
     {
-      "class": "group",
-      "id": "2935C675-FFD0-4926-8FEB-2C25D263875F"
-    },
-    {
       "class": "text",
       "id": "C71C50E1-1E1E-4B87-B747-4E628E96C485"
     },
@@ -163,6 +159,22 @@
     {
       "class": "group",
       "id": "CE984389-A29E-45FC-B0BC-E8F7D389E585"
+    },
+    {
+      "class": "group",
+      "id": "39A4A27A-B22A-486E-A40B-21229C79A01B"
+    },
+    {
+      "class": "group",
+      "id": "54192615-19F5-43CD-8ADD-CD29CE97661A"
+    },
+    {
+      "class": "text",
+      "id": "5F47FB3D-5599-42A3-B948-516FBA6CAB72"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7596F1A3-E000-476F-B094-B1BF755F2662"
     }
   ],
   "name": "Searched for Tower Bridge",
@@ -188,7 +200,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {

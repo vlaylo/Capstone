@@ -83,6 +83,14 @@
       "id": "A5BFA196-B1B6-40C9-87E0-6D8CC810B868"
     },
     {
+      "class": "group",
+      "id": "E8EF211E-D442-4FBB-B2F3-57AF4F51ABD0"
+    },
+    {
+      "class": "rectangle",
+      "id": "11AE40DF-96AB-4289-9A05-C324250850EC"
+    },
+    {
       "class": "shapePath",
       "id": "2B86403F-A660-45DA-B353-115F50E8D914"
     },
@@ -99,20 +107,12 @@
       "id": "FDBBF73E-5C9E-4023-B6DC-F959A145B916"
     },
     {
-      "class": "oval",
-      "id": "30163A3E-C2EB-4003-B151-ED3A0C8A5465"
-    },
-    {
       "class": "text",
       "id": "6070F7AD-E8AB-4A51-8C35-3F3346DAF18D"
     },
     {
       "class": "text",
       "id": "06D8966B-051D-4D93-BC92-9F07EFC86E95"
-    },
-    {
-      "class": "text",
-      "id": "98499E13-F8D0-4F7F-BD2E-CACE1980C3D9"
     },
     {
       "class": "text",
@@ -131,28 +131,8 @@
       "id": "41013141-BF90-4865-9F0A-8529912A455B"
     },
     {
-      "class": "text",
-      "id": "6CA415B7-74B5-4EC3-9BED-C60E43EA38F9"
-    },
-    {
-      "class": "text",
-      "id": "C83F5907-DF59-40AF-BE49-D6C65D209C55"
-    },
-    {
       "class": "rectangle",
       "id": "AF5256CA-4572-4756-A666-E46246B4FA35"
-    },
-    {
-      "class": "text",
-      "id": "83908273-530F-41D4-B575-E25BD0003312"
-    },
-    {
-      "class": "rectangle",
-      "id": "D4F244D5-87AC-4C83-8C2A-C4708FE9D824"
-    },
-    {
-      "class": "text",
-      "id": "8D0CAE7C-F195-4311-94FE-8EE87CB135F5"
     },
     {
       "class": "text",
@@ -175,20 +155,48 @@
       "id": "6C27DE78-5304-4441-B9B8-79ED08D814BF"
     },
     {
+      "class": "rectangle",
+      "id": "24CB50B2-E916-4AFD-98DA-32C1FC1B8D10"
+    },
+    {
       "class": "text",
       "id": "0FEA8BC3-8BC3-4543-8ACD-545E67813A58"
     },
     {
       "class": "text",
-      "id": "ACA838BE-587C-4E9A-90FD-F25697910CD2"
+      "id": "88D78E95-E4DC-42A8-B7CC-5D8ECA28AEB4"
+    },
+    {
+      "class": "rectangle",
+      "id": "610CD626-0909-4B62-A74F-DD0055945F8A"
+    },
+    {
+      "class": "rectangle",
+      "id": "D54C21AB-7E66-402E-ACE6-950A32355CF1"
     },
     {
       "class": "text",
-      "id": "1FD859F3-71CC-4857-BDF2-F2B9F0644ABB"
+      "id": "A5D00DB0-C44D-4B00-BD0E-FADAD8ABA893"
     },
     {
       "class": "text",
-      "id": "442410DF-66D6-4F4F-970F-A8CA27063B42"
+      "id": "76FD593A-71E8-4415-BC00-D9B84344C559"
+    },
+    {
+      "class": "text",
+      "id": "6F56971D-F64B-4842-B23C-084CFCDC7EC6"
+    },
+    {
+      "class": "text",
+      "id": "DAD5990A-B0CC-4B7B-8362-5F54F71EC914"
+    },
+    {
+      "class": "text",
+      "id": "5A908605-A036-4C30-AF04-95A8305B7D6C"
+    },
+    {
+      "class": "text",
+      "id": "1D2ACC1C-80C9-4582-8558-B2ACA76B3D5C"
     }
   ],
   "name": "Style Guide",

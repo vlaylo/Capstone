@@ -18,8 +18,8 @@
     "constrainProportions": false,
     "do_objectID": "14231C94-08EE-4E2B-80A1-5A92F90EB919",
     "height": 25,
-    "width": 90,
-    "x": 140,
+    "width": 77,
+    "x": 153,
     "y": 620
   },
   "groupLayout": {
@@ -35,10 +35,6 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "group",
-      "id": "24AF1C89-9162-45D9-86D5-6C62B8D5F7E0"
-    },
     {
       "class": "text",
       "id": "E254231E-75B5-4B09-B488-4E791070606D"

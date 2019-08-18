@@ -9,14 +9,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "PTMono-Regular",
+              "name": "HKGrotesk-Medium",
               "size": 36
             }
           },
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "9C12C0E6-8A99-4F81-A61C-349396F5942F",
-    "height": 40,
-    "width": 346,
-    "x": 1537,
-    "y": 335
+    "height": 45,
+    "width": 255,
+    "x": 1583,
+    "y": 328
   },
-  "glyphBounds": "{{0, 6}, {344, 34}}",
+  "glyphBounds": "{{0, 10}, {254, 34}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Add to itinerary Copy",
+  "name": "Add to itinerary",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -84,14 +84,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "PTMono-Regular",
+            "name": "HKGrotesk-Medium",
             "size": 36
           }
         },

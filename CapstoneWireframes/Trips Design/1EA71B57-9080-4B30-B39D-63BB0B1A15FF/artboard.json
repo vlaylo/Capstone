@@ -51,7 +51,7 @@
     "do_objectID": "C9B54E03-957E-44AA-85F3-66B05EE26363"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -148,14 +148,6 @@
     },
     {
       "class": "group",
-      "id": "E76586AC-AA5D-46B7-9EE7-C3B6FCC1CDC8"
-    },
-    {
-      "class": "text",
-      "id": "7C76C65C-0D15-4552-82D0-F5C1D28273F7"
-    },
-    {
-      "class": "group",
       "id": "5CC45347-9EE1-4DFF-A74E-C1057DC6F6FF"
     },
     {
@@ -168,14 +160,58 @@
     },
     {
       "class": "rectangle",
+      "id": "75993BCF-5740-4F9D-94B5-609B417B3205"
+    },
+    {
+      "class": "group",
+      "id": "D5A1B8AE-B489-4D36-8A51-A6D893B17EE3"
+    },
+    {
+      "class": "group",
+      "id": "52DED35A-CE15-4920-9054-B2409D830B60"
+    },
+    {
+      "class": "rectangle",
+      "id": "568171A1-3840-49BC-914F-015155C99D67"
+    },
+    {
+      "class": "group",
+      "id": "FDF3753E-FCCD-4269-839B-95C35369281B"
+    },
+    {
+      "class": "rectangle",
       "id": "26BEA712-8515-4D3E-8964-5343AFA7DAE2"
     },
     {
       "class": "group",
       "id": "E5FD9FD5-A14C-430D-B9FE-78F0ACAD1053"
+    },
+    {
+      "class": "group",
+      "id": "DD31DED4-3830-4A6E-A14B-40012724ED23"
+    },
+    {
+      "class": "group",
+      "id": "A140CE36-04DC-4403-997D-E193A708AB48"
+    },
+    {
+      "class": "text",
+      "id": "FED3752D-4E93-4039-9C7B-5C8F7801C2FD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9001951D-C4AB-4C1F-BA29-725DBF0E096E"
+    },
+    {
+      "class": "rectangle",
+      "id": "6F848FDA-3806-45F1-8E5E-2BCEF4E40313"
+    },
+    {
+      "class": "group",
+      "id": "9406FB62-16A0-4AA5-B924-FBEAB07B450E"
     }
   ],
-  "name": "Searched for Tower Bridge",
+  "name": "Search for Paris",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

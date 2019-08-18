@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "HKGrotesk-SemiBoldItalic",
+              "name": "HKGrotesk-SemiBold",
               "size": 16.01
             }
           },
@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 33,
+        "length": 27,
         "location": 0
       }
     ],
-    "string": "Trip incomplete…add some details!"
+    "string": "May 10, 2020 - May 24, 2020"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,7 +54,7 @@
     "x": 36,
     "y": 494
   },
-  "glyphBounds": "{{1, 4}, {248, 16}}",
+  "glyphBounds": "{{1, 4}, {211, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Trip incomplete…add Copy 5",
+  "name": "May 10, 2020 - May 2",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -87,7 +87,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "HKGrotesk-SemiBoldItalic",
+            "name": "HKGrotesk-SemiBold",
             "size": 16.01
           }
         },

@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 14,
+        "length": 15,
         "location": 0
       }
     ],
-    "string": "Things to know"
+    "string": "Average Costs  "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "987986ED-2793-4A8C-8119-B7D97860576A",
     "height": 23,
-    "width": 121,
+    "width": 123,
     "x": 26,
-    "y": 510
+    "y": 527
   },
-  "glyphBounds": "{{0, 5}, {121, 17}}",
+  "glyphBounds": "{{0, 5}, {114, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Things to know",
+  "name": "Average Costs",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

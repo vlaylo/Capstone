@@ -33,7 +33,7 @@
     "constrainProportions": false,
     "height": 720,
     "width": 360,
-    "x": 2621,
+    "x": 2538,
     "y": 477
   },
   "grid": {
@@ -46,7 +46,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -127,6 +127,10 @@
     {
       "class": "group",
       "id": "8EDDC1D3-7232-40F2-9077-AA2E4DC4DB40"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9BBF7F2A-8943-4087-A8E3-C73732C20EBC"
     }
   ],
   "name": "Hyde Park Clicked",
@@ -152,7 +156,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {

@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "PTMono-Regular",
+              "name": "HKGrotesk-Regular",
               "size": 36
             }
           },
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "7C8582DF-B44B-4A63-A6BA-89D2D75DFEBE",
-    "height": 40,
-    "width": 87,
-    "x": 1296,
-    "y": 335
+    "height": 45,
+    "width": 77,
+    "x": 1303,
+    "y": 328
   },
-  "glyphBounds": "{{2, 6}, {83, 27}}",
+  "glyphBounds": "{{1, 10}, {74, 27}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -91,7 +91,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "PTMono-Regular",
+            "name": "HKGrotesk-Regular",
             "size": 36
           }
         },

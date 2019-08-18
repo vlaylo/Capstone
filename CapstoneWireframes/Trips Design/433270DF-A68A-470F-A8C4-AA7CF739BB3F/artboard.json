@@ -36,7 +36,7 @@
     "do_objectID": "284469DD-391E-4BFF-BD74-7AED118E00A2",
     "height": 1245,
     "width": 360,
-    "x": 495,
+    "x": 447,
     "y": 477
   },
   "grid": {
@@ -151,10 +151,6 @@
     },
     {
       "class": "text",
-      "id": "4BEB2EFF-FB58-4E32-829E-72D91D423DC7"
-    },
-    {
-      "class": "text",
       "id": "F64E6DCA-0C91-48BB-BF9A-CCFDE7D2F2CB"
     },
     {
@@ -164,18 +160,6 @@
     {
       "class": "rectangle",
       "id": "7DBCA164-B57E-44B9-87AE-1803FD9092A2"
-    },
-    {
-      "class": "shapePath",
-      "id": "A7DC0026-5F69-440C-8D93-3DE683283D83"
-    },
-    {
-      "class": "oval",
-      "id": "EFABDEF2-E972-4CD7-9FC0-B4ADE3159C06"
-    },
-    {
-      "class": "oval",
-      "id": "57C8A6D9-7114-411D-BF7F-92AD61D63963"
     },
     {
       "class": "shapePath",
@@ -235,11 +219,15 @@
     },
     {
       "class": "group",
-      "id": "8C984393-A99F-47DF-AAA6-24559AD995D0"
+      "id": "17C1C551-7599-432D-A281-A32285B23C74"
     },
     {
-      "class": "group",
-      "id": "9232C97D-7A2D-466E-9CBC-6525A826237A"
+      "class": "text",
+      "id": "7B10A63B-4023-4155-8636-F010B66689FD"
+    },
+    {
+      "class": "text",
+      "id": "F8121152-87D7-4882-A6D1-580E88212010"
     },
     {
       "class": "group",
@@ -271,10 +259,6 @@
     },
     {
       "class": "group",
-      "id": "C36327D3-5956-46A3-83F3-A1D221AB4F9D"
-    },
-    {
-      "class": "group",
       "id": "0B927AF8-045A-4F5D-B94B-4940F84D1693"
     },
     {
@@ -292,6 +276,10 @@
     {
       "class": "text",
       "id": "2135EEC6-AB66-466E-B6B3-AF5818DB8484"
+    },
+    {
+      "class": "triangle",
+      "id": "F91EB6B9-0E74-4E9F-8D55-85C8FCB6964B"
     },
     {
       "class": "group",
@@ -312,6 +300,22 @@
     {
       "class": "bitmap",
       "id": "54473459-9F59-4BA0-A666-B344481A4D3F"
+    },
+    {
+      "class": "group",
+      "id": "EC4C4D0E-C3EA-4334-B5C7-A6E5EE8B9C1A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5B617956-D0C5-4CE7-A4EA-2477D3FE1247"
+    },
+    {
+      "class": "bitmap",
+      "id": "C9B86FEC-10AD-40C4-93BC-FD851A0D20B5"
+    },
+    {
+      "class": "triangle",
+      "id": "2C77FD11-C9F1-43C0-A6F8-6FC6D27B7F77"
     }
   ],
   "name": "Collapsed Itinerary",

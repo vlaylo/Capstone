@@ -33,7 +33,7 @@
     "constrainProportions": false,
     "height": 720,
     "width": 360,
-    "x": 3021,
+    "x": 2958,
     "y": 476
   },
   "grid": {
@@ -133,7 +133,7 @@
       "id": "CD0BC8AC-A51D-45DE-827A-64C148AF9329"
     }
   ],
-  "name": "Hyde Park Clicked Copy",
+  "name": "Hyde Park Added",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
@@ -156,7 +156,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 1
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {

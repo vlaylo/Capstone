@@ -301,9 +301,13 @@
     {
       "class": "group",
       "id": "A6E129B1-5D17-4A10-BF86-277666CE8D4B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E02CCC43-54BB-4548-944B-A1BEA847545B"
     }
   ],
-  "name": "Trips 1 Copy",
+  "name": "Add new trip confirm",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
@@ -326,7 +330,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 1
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {

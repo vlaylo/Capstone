@@ -46,7 +46,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -85,24 +85,64 @@
       "id": "EC7ECFBC-0638-41E4-B51B-5DA7778C58D0"
     },
     {
-      "class": "group",
-      "id": "4BA8AC49-5E8E-4021-8BA1-6781D62009A1"
+      "class": "text",
+      "id": "14B7BCC9-5464-4188-B3D8-AD3919A8B3BB"
     },
     {
-      "class": "group",
-      "id": "1A863F7F-7B81-40E2-93D0-D6E58327B47F"
+      "class": "oval",
+      "id": "E740C62A-E4AF-4857-8793-4A560F67A03E"
     },
     {
-      "class": "group",
-      "id": "8FD222BF-48FF-4285-9D59-F7510C17658A"
+      "class": "text",
+      "id": "1FB78658-524D-4064-B104-676AA4ACBD88"
     },
     {
-      "class": "group",
-      "id": "525CB078-8CE7-435F-A17D-1BABEFBD39BA"
+      "class": "text",
+      "id": "853F2DA6-69F0-4A50-856E-9C7B7A68EA6F"
     },
     {
-      "class": "group",
-      "id": "CEBF7B7E-2159-43C3-A988-2DF292C8322F"
+      "class": "oval",
+      "id": "030BF031-46B2-4798-A58F-1EE5D6E3A995"
+    },
+    {
+      "class": "text",
+      "id": "82F0FF82-D97D-4F8B-97FB-8243485DC9DA"
+    },
+    {
+      "class": "text",
+      "id": "FA19D49C-2422-467B-8547-9D86C0B1FEA2"
+    },
+    {
+      "class": "oval",
+      "id": "65BF7712-5266-4718-9281-D601B2397957"
+    },
+    {
+      "class": "text",
+      "id": "42FE164D-8B52-49EF-8973-DE8424BF3AAD"
+    },
+    {
+      "class": "text",
+      "id": "5C075098-E3F2-48F4-80B5-23A55E213738"
+    },
+    {
+      "class": "oval",
+      "id": "7BF8EF24-A9E9-45C4-A5DE-D01E3EC49678"
+    },
+    {
+      "class": "text",
+      "id": "23E19F2B-F0D8-4222-A98A-E7E501C56E12"
+    },
+    {
+      "class": "text",
+      "id": "2E351C6E-DBAF-4BEA-92B8-5B5C74B3C3AD"
+    },
+    {
+      "class": "oval",
+      "id": "8A02ABFE-E2D1-4C55-9DCE-A3AED3330221"
+    },
+    {
+      "class": "text",
+      "id": "A3475A1C-E5AD-4FA5-945D-9EB546A037A1"
     },
     {
       "class": "text",
@@ -155,6 +195,10 @@
     {
       "class": "group",
       "id": "64723148-1A9A-44DA-8B13-64F75270423C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D7453DB7-97D4-4671-B1A8-30F22A4C2BAF"
     }
   ],
   "name": "Trip Party Profile",

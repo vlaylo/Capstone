@@ -17,7 +17,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F7711A19-0A5D-404B-AA06-43B9B0800AD3",
-    "height": 85,
+    "height": 50,
     "width": 360,
     "x": 0,
     "y": 1160
@@ -33,7 +33,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -42,10 +42,6 @@
     {
       "class": "MSImmutableHotspotLayer",
       "id": "E989CA0E-6983-44BD-8588-311CABE66611"
-    },
-    {
-      "class": "rectangle",
-      "id": "FD8D65A1-BA60-40F1-93AF-07D828A9CAF3"
     }
   ],
   "name": "Group 5",

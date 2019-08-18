@@ -34,7 +34,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "0E4F85D7-C171-400C-AF27-F4F0A4DBD431",
-    "height": 720,
+    "height": 926,
     "width": 360,
     "x": 1851,
     "y": 2950
@@ -51,7 +51,7 @@
     "do_objectID": "28010346-428D-41DE-B8B6-F4F401474905"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -108,10 +108,6 @@
     },
     {
       "class": "text",
-      "id": "FD683764-F369-47C8-96A8-081302DA3FF5"
-    },
-    {
-      "class": "text",
       "id": "A52D9C99-9804-4CBE-B954-27CD541B13FE"
     },
     {
@@ -121,6 +117,10 @@
     {
       "class": "shapePath",
       "id": "93392030-C26B-47E9-80F3-B5302945ED36"
+    },
+    {
+      "class": "text",
+      "id": "54666D3B-699F-4613-9A0B-F55296668707"
     },
     {
       "class": "group",
@@ -137,9 +137,125 @@
     {
       "class": "group",
       "id": "7985E8EE-E933-425B-A653-75CB463C4AFE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "833FED07-E40E-45DA-BD8E-B86931F01E00"
+    },
+    {
+      "class": "group",
+      "id": "3BC6F06C-40AD-447F-951D-6A2300DE4896"
+    },
+    {
+      "class": "group",
+      "id": "CFFCC5AF-1D9B-4FAB-AFF3-AFF7CFBB9675"
+    },
+    {
+      "class": "text",
+      "id": "7EBB199D-27C3-407A-AF3D-478944A6DD5D"
+    },
+    {
+      "class": "text",
+      "id": "C4471D1B-C118-46D9-8635-CE6099119A78"
+    },
+    {
+      "class": "shapePath",
+      "id": "21FFC6F8-3CD8-45C1-9931-ED71E34ED0BF"
+    },
+    {
+      "class": "text",
+      "id": "FA401CF5-BD44-46D0-9E89-5448A699B1F4"
+    },
+    {
+      "class": "shapePath",
+      "id": "864F3E76-563F-4CD4-B8DC-EF57E2659EF8"
+    },
+    {
+      "class": "text",
+      "id": "B671CC60-586D-4897-817F-57D2DB1EABC5"
+    },
+    {
+      "class": "group",
+      "id": "1E5CC385-3627-45E4-8FCC-F7D371822070"
+    },
+    {
+      "class": "bitmap",
+      "id": "D691DF7E-439F-461E-99A4-742AD1D57A55"
+    },
+    {
+      "class": "text",
+      "id": "B60AD171-1D63-413F-8F02-AEF327BC54C7"
+    },
+    {
+      "class": "shapePath",
+      "id": "06BED590-AF67-46B2-88D9-9C5B5EFFA19C"
+    },
+    {
+      "class": "text",
+      "id": "8E66EFF8-604E-4243-AAF7-1B7DB7C8762B"
+    },
+    {
+      "class": "group",
+      "id": "9A6A14BC-8478-4959-94FB-2ECE9A5CF825"
+    },
+    {
+      "class": "bitmap",
+      "id": "564243E6-162C-4D5C-A204-BD4AA82E0D07"
+    },
+    {
+      "class": "text",
+      "id": "C1B2F498-DB36-4EC4-A58B-4C1FDE21846E"
+    },
+    {
+      "class": "text",
+      "id": "AF626437-D260-49BA-A024-63ED14F56827"
+    },
+    {
+      "class": "text",
+      "id": "244F3147-4819-44F1-A559-1772B4DD853B"
+    },
+    {
+      "class": "triangle",
+      "id": "7308A29D-36E8-41FD-A53D-0095367CDF68"
+    },
+    {
+      "class": "triangle",
+      "id": "5CE72EFD-FDF2-48A9-A991-F328D0287A3A"
+    },
+    {
+      "class": "triangle",
+      "id": "9F9A81E9-8BA4-4F1F-AFC4-D6C4B0476600"
+    },
+    {
+      "class": "text",
+      "id": "4AF382AB-2DED-4EC0-B527-C5C2B889C9AE"
+    },
+    {
+      "class": "group",
+      "id": "CB33F507-50B1-4AF1-84AE-225731551F2C"
+    },
+    {
+      "class": "text",
+      "id": "4A903BA3-3607-47CB-8494-C7E3840400ED"
+    },
+    {
+      "class": "text",
+      "id": "319F53E7-1B8F-411E-A8CB-00C5AA4882BB"
+    },
+    {
+      "class": "bitmap",
+      "id": "829712B9-6738-4113-B428-7CB39A35E989"
+    },
+    {
+      "class": "text",
+      "id": "1AF1AF98-DECC-4A43-8EAD-F00092307011"
+    },
+    {
+      "class": "triangle",
+      "id": "5E100B61-B357-4ED3-AC23-A1B5979340B4"
     }
   ],
-  "name": "Tower Bridge Clicked",
+  "name": "Paris Clicked",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
@@ -163,7 +279,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9777E24B-5FE1-485C-BABF-94E2E8A127D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "44D50DFF-9141-41D6-A8A3-182E2532F8F5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "43D7DA31-3DB6-4BAA-A590-FE8CD2D27437",
+    "height": 118,
+    "width": 118,
+    "x": 289,
+    "y": 414
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "13189588-1D2A-4ED4-97F4-0F8E9364ACD3"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "FF24F155-3312-4165-921B-1276EB5F3758"
+    },
+    {
+      "class": "bitmap",
+      "id": "B2B84E68-894B-40A2-9690-6746AE8C6C6B"
+    }
+  ],
+  "name": "Amsterdam Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "68CB0311-2B8B-4670-8606-4433BBAD849A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

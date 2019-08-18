@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "HKGrotesk-Bold",
-              "size": 12
+              "size": 14
             }
           },
           "paragraphStyle": {
@@ -43,7 +43,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "HKGrotesk-Bold",
-              "size": 8
+              "size": 10
             }
           },
           "paragraphStyle": {
@@ -77,12 +77,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F335E77F-202C-44D1-A10A-4F3B13F71686",
-    "height": 15,
-    "width": 38,
+    "height": 18,
+    "width": 45,
     "x": 25,
-    "y": 454
+    "y": 452
   },
-  "glyphBounds": "{{0, 3}, {37, 10}}",
+  "glyphBounds": "{{0, 4}, {44, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -118,7 +118,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "HKGrotesk-Bold",
-            "size": 12
+            "size": 14
           }
         },
         "paragraphStyle": {

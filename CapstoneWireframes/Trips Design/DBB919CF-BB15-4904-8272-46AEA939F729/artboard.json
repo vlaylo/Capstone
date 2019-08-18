@@ -123,6 +123,10 @@
     {
       "class": "text",
       "id": "9D12B38C-7A2A-4DA9-87C6-E67F9C726C6A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "03CC9F4E-C18D-46A4-ABD0-E8EB33E5784D"
     }
   ],
   "name": "Edit Trip Info",

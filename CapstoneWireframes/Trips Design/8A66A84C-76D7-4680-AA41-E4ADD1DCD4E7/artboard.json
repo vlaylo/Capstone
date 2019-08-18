@@ -203,6 +203,10 @@
     {
       "class": "bitmap",
       "id": "46875519-D236-47B5-A224-AFBD886EF7B3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D8F5FAE7-B898-47DC-AB80-88F8831BF92D"
     }
   ],
   "name": "Add Activity Already Booked",
@@ -228,7 +232,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {

@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 16,
+        "length": 26,
         "location": 0
       }
     ],
-    "string": "I’m a night owl!"
+    "string": "I like being shown around."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,11 +50,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 18,
-    "width": 97,
+    "width": 166,
     "x": 33,
-    "y": 528
+    "y": 518
   },
-  "glyphBounds": "{{1, 4}, {95, 13}}",
+  "glyphBounds": "{{1, 4}, {163, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "I’m a night owl!",
+  "name": "I like being shown a",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

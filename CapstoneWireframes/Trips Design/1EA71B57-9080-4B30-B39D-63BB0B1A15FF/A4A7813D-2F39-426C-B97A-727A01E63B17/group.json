@@ -20,7 +20,7 @@
     "height": 237,
     "width": 344,
     "x": 8,
-    "y": 747
+    "y": 837
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -42,10 +42,6 @@
     {
       "class": "text",
       "id": "A2BD75EF-F2C5-464F-B1E5-D53239F29E56"
-    },
-    {
-      "class": "group",
-      "id": "0CD3493F-5EEE-403F-8638-C4688F6ABFD4"
     }
   ],
   "name": "Group 3 Copy 2",

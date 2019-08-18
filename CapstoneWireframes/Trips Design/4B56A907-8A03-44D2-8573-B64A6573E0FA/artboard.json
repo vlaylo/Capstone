@@ -33,7 +33,7 @@
     "constrainProportions": false,
     "height": 720,
     "width": 360,
-    "x": 1724,
+    "x": 1687,
     "y": 477
   },
   "grid": {
@@ -143,6 +143,10 @@
     {
       "class": "bitmap",
       "id": "C922A6A3-3E86-4448-88DB-35513E78C05E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F0CDEF47-141C-4073-9885-5FFD595DE7B0"
     }
   ],
   "name": "Add Activity Explore Copy",
@@ -168,7 +172,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {

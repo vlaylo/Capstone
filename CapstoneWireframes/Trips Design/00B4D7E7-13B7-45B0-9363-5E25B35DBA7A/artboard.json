@@ -81,10 +81,6 @@
       "id": "830CE8E7-923A-42CD-9E03-2BC921179896"
     },
     {
-      "class": "group",
-      "id": "B379C172-211E-4573-9A47-4E2CE037E59B"
-    },
-    {
       "class": "rectangle",
       "id": "EBAE78B0-E188-4987-9455-D6B420D1CE12"
     },
@@ -111,9 +107,25 @@
     {
       "class": "text",
       "id": "0119F922-A31E-4678-88D7-3ECDF866BDAD"
+    },
+    {
+      "class": "bitmap",
+      "id": "2E96D020-BB3C-4016-B1AD-A0213F1AA397"
+    },
+    {
+      "class": "group",
+      "id": "C8A5DCDC-FDD6-43A7-82E6-44AF91397998"
+    },
+    {
+      "class": "group",
+      "id": "C25C3261-2928-4717-A28F-D466A3B23858"
+    },
+    {
+      "class": "text",
+      "id": "B4084350-BCBB-478A-9DCD-556F4EA24D6A"
     }
   ],
-  "name": "Add new trip Copy 5",
+  "name": "Onboarding 4",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

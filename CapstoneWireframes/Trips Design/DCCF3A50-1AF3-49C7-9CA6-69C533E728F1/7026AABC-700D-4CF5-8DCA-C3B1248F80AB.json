@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 24,
+        "length": 19,
         "location": 0
       }
     ],
-    "string": "I’m adventurous…explore!"
+    "string": "I’m love exploring!"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,11 +50,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 18,
-    "width": 164,
+    "width": 117,
     "x": 33,
-    "y": 528
+    "y": 518
   },
-  "glyphBounds": "{{1, 4}, {162, 13}}",
+  "glyphBounds": "{{1, 4}, {115, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "I’m adventurous…expl",
+  "name": "I’m love exploring!",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

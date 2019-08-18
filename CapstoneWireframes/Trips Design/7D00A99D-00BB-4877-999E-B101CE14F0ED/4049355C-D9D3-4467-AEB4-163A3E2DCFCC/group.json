@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4049355C-D9D3-4467-AEB4-163A3E2DCFCC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8572C6B8-476C-4AE2-B868-861E3AC1A6BC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 0,
+    "destinationArtboardID": "1EA71B57-9080-4B30-B39D-63BB0B1A15FF",
+    "do_objectID": "F99E829F-D595-4FF6-B94C-01AF3C760C12"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E9B811A6-6E0B-4F77-B563-E6FB7ED36E34",
+    "height": 118,
+    "width": 118,
+    "x": 33,
+    "y": 244
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "1412749D-2DBE-4A6D-8A4F-410C3E3A11A9"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "703DD5B0-59E3-47D9-8F04-A3CC42E8806E"
+    },
+    {
+      "class": "bitmap",
+      "id": "C8C12653-77B1-4B3A-85C5-32972AD3C4CD"
+    }
+  ],
+  "name": "France",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F1BA4DA5-2D96-410C-86C5-8FEAFC3B9A08",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

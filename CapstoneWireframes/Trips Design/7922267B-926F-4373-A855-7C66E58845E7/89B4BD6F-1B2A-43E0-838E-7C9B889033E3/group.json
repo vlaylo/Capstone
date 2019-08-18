@@ -16,8 +16,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 25,
-    "width": 90,
-    "x": 140,
+    "width": 77,
+    "x": 153,
     "y": 500
   },
   "groupLayout": {
@@ -32,10 +32,6 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "group",
-      "id": "2936901C-477B-4466-A755-E64D86CF3ECB"
-    },
     {
       "class": "text",
       "id": "5EBBF729-9950-4B2B-90E5-B1C0FC302597"
